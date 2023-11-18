@@ -20,7 +20,7 @@
 > Notlar :)
 
 > [!NOTE]
-> Biliyormuydun? Vektörel Bilişim İle Phyton Ve Daha Bir Sürü Şey Öğrenebilirsiniz.
+> Biliyormuydun? Night Code Community İle Beraber Çalıp Öğrenebiliriz.
 
 > [!TIP]
 > Biliyormuydun? myrev Night Code Comminty İle Arkadaşlarına Yardım Ediyor :)
