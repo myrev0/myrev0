@@ -3,7 +3,7 @@
 > My Goal is to Improve Myself by Writing Code
 > I Write Fun Codes with Python
 
-![](https://yorumajans.com.tr/assets/images/content/web-tasarim-ve-yazilim.png)
+![](https://t4.ftcdn.net/jpg/03/75/38/73/360_F_375387396_wSJM4Zm0kIRoG7Ej8rmkXot9gN69H4u4.jpg)
 
 > Kod Yazmanın Faydaları
 
