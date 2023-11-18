@@ -19,7 +19,7 @@
 
 > Notlar :)
 
-> [!NOTE]
+> [!NOT]
 > Biliyormuydun? Vektörel Bilişim İle Phyton Ve Daha Bir Sürü Şey Öğrenebilirsiniz.
 
 > [!TIP]
