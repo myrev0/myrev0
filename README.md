@@ -16,4 +16,4 @@
 > [!IMPORTANT]
 > Biliyormuydun? Myrev Sizi Tehlikelerden Uzak Tutmak İçin Uyarıyor.
 
-![İnstagram](https://static.vecteezy.com/system/resources/previews/023/986/514/non_2x/instagram-logo-instagram-logo-transparent-instagram-icon-transparent-free-free-png.png)(https://www.instagram.com/irisakadir0/)
+![İnstagram Adresim :)](https://www.instagram.com/irisakadir0/)
