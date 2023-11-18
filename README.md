@@ -7,8 +7,8 @@
 
 # Ben Kimim
 
-> Kadir İris Yanı @myrev. Öncelikle Neden myrev :D "Revolka" Yani Doğu Efsanesine Göre Savaşçı, Cesur Demek.
-> My Ben Demek Oluyor Yani Ben Revolka Yani Sanal Alemin Revolkası Demek :D
+> @octocat :+1: :Kadir İris Yanı @myrev. Öncelikle Neden myrev :D "Revolka" Yani Doğu Efsanesine Göre Savaşçı, Cesur Demek.
+> My Ben Demek Oluyor Yani Ben Revolka Yani Sanal Alemin Revolkası Demek:shipit:
 * Kadir İris Kimdir?
   > Kadir İris Kod Dünyasına 2023 Yılı İtibariyle Girmiş Ve kendini Bu Konuda Geliştirmeye Çalışan Phyton Geliştiricisi.
 * Amacı Nedir
