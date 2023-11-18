@@ -5,6 +5,18 @@
 
 ![phyton Logo](https://freepngimg.com/thumb/categories/1402.png)
 
+# Ben Kimim
+
+> Kadir İris Yanı @myrev. Öncelikle Neden myrev :D "Revolka" Yani Doğu Efsanesine Göre Savaşçı, Cesur Demek.
+> My Ben Demek Oluyor Yani Ben Revolka Yani Sanal Alemin Revolkası Demek :D
+* Kadir İris Kimdir?
+  > Kadir İris Kod Dünyasına 2023 Yılı İtibariyle Girmiş Ve kendini Bu Konuda Geliştirmeye Çalışan Phyton Geliştiricisi.
+* Amacı Nedir
+  >  Amacı Kendi Geliştirdiği Kodları Piyasaya Sürerek Bir Piyasa Programcısı Olabilmek.
+* Neler Yapar / Yapmak İster?
+  > Temel Hedefi SQL İle Veri Tabanı Saklayarak Masaüstü Ve Web Tasarımları Yapabilmek.
+
+
 > Notlar :)
 
 > [!NOTE]
