@@ -5,7 +5,7 @@
 
 ![phyton Logo](https://freepngimg.com/thumb/categories/1402.png)
 
-> Kod Yazmanın Faydaları
+> Notlar :)
 
 > [!NOTE]
 > Biliyormuydun? Vektörel Bilişim İle Phyton Ve Daha Bir Sürü Şey Öğrenebilirsiniz.
