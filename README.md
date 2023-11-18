@@ -17,3 +17,4 @@
 > Biliyormuydun? Myrev Sizi Tehlikelerden Uzak Tutmak İçin Uyarıyor.
 
 [İnstagram Adresim :)](https://www.instagram.com/irisakadir0/)
+[Discord Night Code Commmunity](https://www.instagram.com/nightcodecommunity/)
