@@ -16,4 +16,4 @@
 > [!IMPORTANT]
 > Biliyormuydun? Myrev Sizi Tehlikelerden Uzak Tutmak İçin Uyarıyor.
 
-![İnstagram Adresim :)](https://www.instagram.com/irisakadir0/)
+[İnstagram Adresim :)](https://www.instagram.com/irisakadir0/)
