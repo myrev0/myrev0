@@ -37,3 +37,4 @@
 
 > Consol Programım
 > Amacı Günlük Kullanım İçin İşimizi Kolaylaştıracak Ve Zaman Geçirmeyi Sağlayacak Bir Proje
+> [Konsol Projesi](https://github.com/myrev0/PHYTON-/tree/main/program)
