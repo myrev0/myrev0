@@ -6,6 +6,9 @@
 ![phyton Logo](https://freepngimg.com/thumb/categories/1402.png)
 
 # Ben Kimim
+<p align="center">
+  <img src="[https://s13.gifyu.com/images/SjLe4.gif](https://media1.tenor.com/m/Fwq5vQKEU98AAAAC/dance-kid.gif)" alt="Proje GIF'i" width="400">
+</p>
 
 > :innocent: :Kadir İris Yanı @myrev. Öncelikle Neden myrev :D "Revolka" Yani Doğu Efsanesine Göre Savaşçı, Cesur Demek.
 > My Ben Demek Oluyor Yani Ben Revolka Yani Sanal Alemin Revolkası Demek 	:innocent:
