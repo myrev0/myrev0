@@ -1,9 +1,8 @@
-### Hi Here Developer Phyton
+### Hi I'm Rev
 
-> My Goal is to Improve Myself by Writing Code
-> I Write Fun Codes with Python
+> Who is Hi Rev?
 
-![phyton Logo](https://freepngimg.com/thumb/categories/1402.png)
+<img src="message.png" alt="Örnek Resim"/>
 
 # Ben Kimim
 <p align="center">
