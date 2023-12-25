@@ -2,7 +2,7 @@
 
 > Who is Hi Rev?
 
-<img src="message.png" alt="Örnek Resim"/>
+<img src="message.png" alt="Örnek Resim" width="300" height="300"/>
 
 # PROJELER
 <p align="center">
